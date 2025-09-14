@@ -16,7 +16,6 @@
   - 🏥 **Health Risk Predictor** – ML-powered health risk analytics  
 - 🌱 Learning **System Design**, **Advanced ML** and exploring **AI Agents**  
 - 🎯 Mission: Build impactful solutions that combine tech + creativity  
-- ⚡ Fun Fact: I turn ideas into projects faster than you can `git init` ⚡  
 
 ---
 
