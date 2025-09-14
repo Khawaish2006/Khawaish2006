@@ -2,7 +2,8 @@
 <h1 align="center">Hey there 👋, I'm Khawaish Jindal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=AI+Enthusiast+%7C+Full+Stack+Developer;Hackathon+Lover+%7C+Problem+Solver;ML+Engineer+In+Progress+%7C+Always+Learning!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Crafting+Smart+AI+Applications;Transforming+Ideas+Into+Code;Exploring+Full+Stack+Development;Driven+By+Curiosity+%26+Innovation" alt="Typing SVG" />
+
 </p>
 
 ---
