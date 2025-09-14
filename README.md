@@ -29,10 +29,9 @@ I love building **AI-powered apps**, **scalable backends**, and exploring cool *
 ---
 
 ## 📌 Projects  
-- 🛒 [**Myntra Closet**](#) – Personal wardrobe management backend  
-- 🤝 [**SkillSwap**](#) – Skill-sharing platform with dynamic React UI  
-- 🧠 [**AI Didi – Business Advisor**](#) – Financial inclusion assistant  
-- 🌱 [**Mini Virtual Eco-World**](#) – Gamified eco-friendly tracker  
+- 🛒 [**BodySync+**](https://github.com/Khawaish2006/BodySyncPlus) – Personal wardrobe management backend  
+- 🤝 [**PeriodPal**](https://github.com/Khawaish2006/periodpal) – Skill-sharing platform with dynamic React UI  
+- 🧠 [**MiniCustomShell**](https://github.com/Khawaish2006/MiniCustomShell) – Financial inclusion assistant  
 
 > 🔗 **More projects** → Check the pinned repos below!  
 
