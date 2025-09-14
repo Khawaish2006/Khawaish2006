@@ -1,5 +1,5 @@
 <!-- Typing Animation Header -->
-<h1 align="center">Hey there 👋, I'm Khawaish Jindal</h1>
+<h1 align="center">Hey everyone 👋, I'm Khawaish Jindal</h1>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Crafting+Smart+AI+Applications;Transforming+Ideas+Into+Code;Exploring+Full+Stack+Development;Driven+By+Curiosity+%26+Innovation" alt="Typing SVG" />
